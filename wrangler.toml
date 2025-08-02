@@ -1,4 +1,4 @@
-name = "deepai-proxy"
+name = "deepai"
 main = "worker.js"  # 👈 Yeh batata hai entry file ka name
 compatibility_date = "2025-08-02"
 
